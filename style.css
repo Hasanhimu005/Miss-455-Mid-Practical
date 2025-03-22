@@ -198,3 +198,18 @@
     background-color: rgb(28, 28, 88);
   }
   
+
+  /* font */
+.freehand-regular {
+    font-family: "Freehand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  /* Finished */
